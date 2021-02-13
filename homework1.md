@@ -94,6 +94,8 @@ Answer here: Oliver and Lily
 with a given name and proportion of dogs with a given name) positive or
 negative? What does this mean in context of the data?
 
-Answer here
+Answer here Positive ,if dog name increase the cats names increase aslo
+and also if dogs names decrease the cats name decrease also in the same
+name of them
 
 (4 points)
