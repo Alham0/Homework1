@@ -86,7 +86,7 @@ slice_max(n, n = 5)%>%arrange(species, n)
 \`5. What names are more common for cats than dogs? The ones above the
 line or the ones below the line?
 
-Answer here
+Answer here: Oliver and Lily
 
 (4 points)
 
